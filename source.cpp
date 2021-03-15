@@ -7,6 +7,10 @@ int main()
 	cout << "03-134182-088 Usman Hamid 6th Semester" << endl;
 	cout<<" 03-134182-037 Farhan Ashraf 6th Semester"<< endl;
 
+	cout<< "03-134182-041 Sameer Tahir 6th semester"<< endl;
+	
+
+
 
   cout<<" 03-134201-025 Armaghan bin zahid 3th Semester"<< endl;
 	cout<<" 090-waqas-2"<< endl;
