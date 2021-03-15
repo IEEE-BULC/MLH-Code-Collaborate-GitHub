@@ -9,5 +9,113 @@ int main()
 	cout<<" 03-135211_036 Haseebullah 1st Semester"<< endl;
 	
 
+	/*
+	copy this line and paste it  
+	                              
+	cout<<" enrollment Name semester "<< endl;
+	
+	*/
+	
+	5465465465465465
+	jkjkjkjkj
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	cout << "03-134202-035 Abdullah Javed 2nd Semester" << endl;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	return 0;
 }
