@@ -8,7 +8,9 @@ int main()
 	cout<<" 03-134182-037 Farhan Ashraf 6th Semester"<< endl;
 
 	cout<< "03-134182-041 Sameer Tahir 6th semester"<< endl;
-	
+
+	cout<< "03-134191-030 Jahanzaib Nazir 5th Semester"<<endl;
+
 
 
 
