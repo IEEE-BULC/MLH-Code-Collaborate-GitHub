@@ -1,25 +1,29 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
-
-	
-	cout<<"Student who contributed in this repo on 15th march 2021"<<endl;
+	cout<<"Students who contributed in this repo on 15th march 2021"<<endl;
 	cout << "03-134182-088 Usman Hamid 6th Semester" << endl;
 	cout<<" 03-134182-037 Farhan Ashraf 6th Semester"<< endl;
+
 	cout<< "03-134182-041 Sameer Tahir 6th semester"<< endl;
 	
+
+
+
+  cout<<" 03-134201-025 Armaghan bin zahid 3th Semester"<< endl;
+	cout<<" 090-waqas-2"<< endl;
+  cout<<" 03-135211_036 Haseebullah 1st Semester"<< endl;
+
 	/*
 	copy this line and paste it  
 	                              
 	cout<<" enrollment Name semester "<< endl;
 	
-	*/
+*/
 	
-	5465465465465465
-	jkjkjkjkj
+	cout<<"03-134202-090 Waqas anwar 2nd Semester"<<endl;
 
 	
 	
@@ -27,6 +31,7 @@ int main()
 	
 	
 	
+	cout<<"some information"<<endl;
 	
 	
 	
@@ -51,6 +56,7 @@ int main()
 	
 	
 	
+	cout << "03-134202-035 Abdullah Javed 2nd Semester" << endl;
 	
 	
 	
@@ -107,10 +113,7 @@ int main()
 	
 	
 	
-	
-	
-	
-	
+	cout<<"03-134192-053 Daud Suleman 4th Semester"<<endl;
 	
 	
 	
