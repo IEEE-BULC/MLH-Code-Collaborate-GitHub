@@ -20,7 +20,6 @@ int main()
 	cout<<" enrollment Name semester "<< endl;
 	
 	*/
-	cout<<" 03-135211_036 Haseebullah 1st Semester"<< endl;
   	cout <<" 03-134202-060 Muhammad Saad 2nd Semester"<<endl;
 	cout<<"03-134202-090 Waqas anwar 2nd Semester"<<endl;
 	cout<<"some information"<<endl;
