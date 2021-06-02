@@ -25,5 +25,6 @@ int main()
 	cout<<"some information"<<endl;
 	cout << "03-134202-035 Abdullah Javed 2nd Semester" << endl;
 	cout<<"03-134192-053 Daud Suleman 4th Semester"<<endl;	
+	cout<<"03-134202-080 Shehroz Ashraf khan 2nd Semester"<<endl;
 	return 0;
 }
