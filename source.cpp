@@ -14,6 +14,7 @@ int main()
 	cout<<" 03-134201-025 Armaghan bin zahid 3th Semester"<< endl;
 	cout<<" 090-waqas-2"<< endl;
   	cout<<" 03-135211_036 Haseebullah 1st Semester"<< endl;
+	cout << "03-134202-045 Muhammad Awais 2nd Semester"<< endl;
 	/*
 	copy this line and paste it  
 	                              
